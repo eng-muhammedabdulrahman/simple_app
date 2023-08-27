@@ -16,14 +16,14 @@ A few resources to get you started if this is your first Flutter project:
   src="https://github.com/eng-muhammedabdulrahman/simple_app/blob/main/lib/assets/Screenshot_1693160772.png"
   alt="Home Screen"
   title="Optional title"
-  style="margin: 0 auto; width: 300px; height: 500px">
+  style="margin: 0 auto; width: 250px; height: 500px">
 <img
   src="https://github.com/eng-muhammedabdulrahman/simple_app/blob/main/lib/assets/Screenshot_1693160782.png"
   alt="Home Screen"
   title="Optional title"
-  style="margin: 0 auto; width: 300px; height: 500px">
+  style="margin: 0 auto; width: 250px; height: 500px">
 <img
   src="https://github.com/eng-muhammedabdulrahman/simple_app/blob/main/lib/assets/Screenshot_1693160790.png"
   alt="Home Screen"
   title="Optional title"
-  style="margin: 30px; width: 300px; height: 500px">
+  style="margin: 30px; width: 250px; height: 500px">
